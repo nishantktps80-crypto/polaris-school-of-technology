@@ -1,2 +1,3 @@
 # polaris-school-of-technology
-it is my first git repository
+It is my first git repository.
+Author- Nishant Kumar
